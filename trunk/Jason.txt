@@ -1,3 +1,5 @@
 This is the GitHub checkin test!
 
 Changes and stuff are here.
+
+Here's a comment from Git!
